@@ -1,4 +1,4 @@
-
+Hello i am Jonathan
 
 # Growth Mindset
 
@@ -10,4 +10,4 @@ Growth mindset is a mindset that  welcomes challenges and obstacles that encoura
 - accecpt criticism 
 - remember goals
 
-<https://github.com/JonathanJames03/JonathanJames03.github.io-reading-notes>
+<https://github.com/JonathanJames03>
