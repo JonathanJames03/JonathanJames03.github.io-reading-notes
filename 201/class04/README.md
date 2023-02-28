@@ -12,7 +12,7 @@
 ## 1. What is meant by “normal flow”?
 ### the way that webpage elements lay themselves out if you haven't changed their layout.
 ## 2. What are a few differences between block-level and inline elements?
-### 
+### inline elements affects that one line and block elements affect everything within the element
 ## 3. ___ positioning is the default for every html element.
 ### static
 ## 4. Name a few advantages to using absolute positioning on an element.
@@ -22,4 +22,9 @@
 
 # Javascript
 ## 1. Describe the difference between a function declaration and a function invocation.
-### 
+### Declared functions are not executed immediately. They are "saved for later use", and will be executed later, when they are invoked
+## 2. What is the difference between a parameter and an argument?
+### The values that are declared within a function when the function is called are known as an argument. Whereas, the variables that are defined when the function is declared are known as a parameter.
+
+# Miscellaneous 
+## 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
